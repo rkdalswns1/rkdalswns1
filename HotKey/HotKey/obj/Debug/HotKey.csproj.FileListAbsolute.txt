@@ -1,0 +1,4 @@
+C:\Users\kmj\source\repos\HotKey\HotKey\obj\Debug\HotKey.csproj.AssemblyReference.cache
+C:\Users\kmj\source\repos\HotKey\HotKey\obj\Debug\HotKey.Properties.Resources.resources
+C:\Users\kmj\source\repos\HotKey\HotKey\obj\Debug\HotKey.csproj.GenerateResource.cache
+C:\Users\kmj\source\repos\HotKey\HotKey\obj\Debug\HotKey.csproj.CoreCompileInputs.cache

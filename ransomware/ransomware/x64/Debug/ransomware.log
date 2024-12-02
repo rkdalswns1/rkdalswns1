@@ -1,0 +1,16 @@
+﻿  rkdalswns.c
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(81,13): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(21,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(47,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(55,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(118,30): warning C4267: '=': 'size_t'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(104,9): warning C4996: 'AES_set_encrypt_key': Since OpenSSL 3.0
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(121,9): warning C4996: 'AES_encrypt': Since OpenSSL 3.0
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(155,26): warning C4090: '함수': 다른 'const' 한정자
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(154,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(157,9): warning C4996: 'AES_set_decrypt_key': Since OpenSSL 3.0
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(169,9): warning C4996: 'AES_decrypt': Since OpenSSL 3.0
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(188,5): warning C4996: 'SHA256_Init': Since OpenSSL 3.0
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(189,5): warning C4996: 'SHA256_Update': Since OpenSSL 3.0
+C:\Users\kmj\source\repos\ransomware\ransomware\rkdalswns.c(192,5): warning C4996: 'SHA256_Final': Since OpenSSL 3.0
+  ransomware.vcxproj -> C:\Users\kmj\source\repos\ransomware\x64\Debug\ransomware.exe
