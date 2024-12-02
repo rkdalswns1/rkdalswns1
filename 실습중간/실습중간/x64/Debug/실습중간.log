@@ -1,4 +1,0 @@
-﻿  강민준.c
-C:\Users\kmj05\source\repos\실습중간\강민준.c(26,3): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\kmj05\source\repos\실습중간\강민준.c(9,6): warning C4101: 'ret' :참조되지 않은 지역 변수입니다.
-  실습중간.vcxproj -> C:\Users\kmj05\source\repos\실습중간\x64\Debug\실습중간.exe
